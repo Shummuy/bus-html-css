@@ -131,6 +131,13 @@ body {
     margin: 0px 30px;
 }
 
+.clouds {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
 .cloud {
     display: flex;
     background: white;
